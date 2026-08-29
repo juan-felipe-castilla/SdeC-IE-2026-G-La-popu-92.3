@@ -2,6 +2,7 @@
 
 **Materia:** Sistemas de Computación  
 **Grupo:** La popu 92.3
+
 **Integrantes:**
 - Agustín Eduardo Dalmazzo
 - Juan Felipe Castilla
