@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Descripción General
-Este repositorio contiene el desarrollo y las resoluciones de las actividades y ensayos prácticos correspondientes a la materia **Sistemas de Computación**. Todos los ejercicios requeridos han sido **completados de forma efectiva**.
+Este repositorio contiene el desarrollo, resoluciones y ensayos prácticos correspondientes a la materia **Sistemas de Computación**. Todos los ejercicios requeridos han sido **completados de forma efectiva**.
 
 ---
 
